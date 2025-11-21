@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Ocelot Observations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.627826993495276, 10.711911483835015, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.29671047698136, 10.722120935630969, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.244544052191415, 10.57040956961773, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.084735694276446, 10.354328017143722, 0.0 ] } }
+]
+}

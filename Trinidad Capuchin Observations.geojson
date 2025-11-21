@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "Trinidad Capuchin Observations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.221940506721033, 10.091225240790058, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.158898763844547, 10.103214958757752, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.151474006814134, 10.121071929502987, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.104821600887334, 10.126127499823001, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.094811063107315, 10.126553372192104, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.177248349398326, 10.138872658084024, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.177555804163852, 10.170801859971949, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.158457947716101, 10.180369886007123, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.171305767873129, 10.239217211131143, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.10454820841116, 10.336789909543562, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.094700858623014, 10.349550529079126, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.112503001741686, 10.354492660092619, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.131392374080875, 10.382175635587405, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.075589687009611, 10.359111233491863, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.075910635643922, 10.346536480027069, 0.0 ] } },
+{ "type": "Feature", "properties": { "Id": 0 }, "geometry": { "type": "Point", "coordinates": [ -61.069376365400828, 10.336581182843132, 0.0 ] } }
+]
+}
