@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "PrivateMedicalFacilities_Trinidad",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "668,761.35, 1,138,029.34", "Loc_Name": "Victoria Nuring Home" }, "geometry": { "type": "Point", "coordinates": [ -61.4589260261059, 10.291335013816624 ] } },
+{ "type": "Feature", "properties": { "Name": "668,037.45, 1,137,201.3", "Loc_Name": "The Surgi-Med Clinic" }, "geometry": { "type": "Point", "coordinates": [ -61.46557096634038, 10.283879967679555 ] } },
+{ "type": "Feature", "properties": { "Name": "667,875.98, 1,137,271.65", "Loc_Name": "Southern Medical Clinic" }, "geometry": { "type": "Point", "coordinates": [ -61.467041990974757, 10.284522991440518 ] } },
+{ "type": "Feature", "properties": { "Name": "684,785.64, 1,174,676.11", "Loc_Name": "Nova Medical Centre" }, "geometry": { "type": "Point", "coordinates": [ -61.310848984742996, 10.621906043996027 ] } },
+{ "type": "Feature", "properties": { "Name": "669,077.49, 1,124,658.66", "Loc_Name": "Penal Medical Associates" }, "geometry": { "type": "Point", "coordinates": [ -61.456624021466993, 10.17043501099557 ] } },
+{ "type": "Feature", "properties": { "Name": "674,295.84, 1,162,687.17", "Loc_Name": "Medical Associates - Chaguanas" }, "geometry": { "type": "Point", "coordinates": [ -61.407269959134823, 10.514018018620966 ] } },
+{ "type": "Feature", "properties": { "Name": "673,498.62, 1,178,398.18", "Loc_Name": "Medical Associates" }, "geometry": { "type": "Point", "coordinates": [ -61.413822981646469, 10.656094014310373 ] } },
+{ "type": "Feature", "properties": { "Name": "661,530.15, 1,178,769.81", "Loc_Name": "The Adam Smith Square Medical Clinic & Lab" }, "geometry": { "type": "Point", "coordinates": [ -61.523200023203302, 10.659988956095132 ] } },
+{ "type": "Feature", "properties": { "Name": "668,979.38, 1,135,329.39", "Loc_Name": "South Coast Medical Centre" }, "geometry": { "type": "Point", "coordinates": [ -61.457054023011771, 10.266914959218864 ] } },
+{ "type": "Feature", "properties": { "Name": "668,751.87, 1,177,765.71", "Loc_Name": "HealthNet Caribbean Limited - Barataria" }, "geometry": { "type": "Point", "coordinates": [ -61.457236926870863, 10.650592648380703 ] } },
+{ "type": "Feature", "properties": { "Name": "661,554.96, 1,181,066.54", "Loc_Name": "HealthNet Caribbean Limited - Maraval" }, "geometry": { "type": "Point", "coordinates": [ -61.522873014523263, 10.680753024400859 ] } },
+{ "type": "Feature", "properties": { "Name": "658,643.22, 1,183,921.48", "Loc_Name": "Jouven Drive Medical Centre" }, "geometry": { "type": "Point", "coordinates": [ -61.549366986030655, 10.706689987496151 ] } },
+{ "type": "Feature", "properties": { "Name": "667,783.14, 1,134,459.07", "Loc_Name": "Gulf View Medical Centre" }, "geometry": { "type": "Point", "coordinates": [ -61.468012002759316, 10.2590979826834 ] } },
+{ "type": "Feature", "properties": { "Name": "668,400.22, 1,134,802.02", "Loc_Name": "Cross Crossing Medical Centre" }, "geometry": { "type": "Point", "coordinates": [ -61.462364024350812, 10.26217202294429 ] } },
+{ "type": "Feature", "properties": { "Name": "669,460.03, 1,137,041.45", "Loc_Name": "Acropolis Medical Centre" }, "geometry": { "type": "Point", "coordinates": [ -61.452591021360476, 10.282372979994404 ] } },
+{ "type": "Feature", "properties": { "Name": "660,638.9, 1,179,195.72", "Loc_Name": "Brian Lara Cancer Traetment Centre" }, "geometry": { "type": "Point", "coordinates": [ -61.531328005879587, 10.663878021762812 ] } },
+{ "type": "Feature", "properties": { "Name": "658,949.26, 1,180,718.94", "Loc_Name": "Community Hospital of Seventh-day Adventists" }, "geometry": { "type": "Point", "coordinates": [ -61.546706991234259, 10.677721964039419 ] } },
+{ "type": "Feature", "properties": { "Name": "658,735.71, 1,180,627.25", "Loc_Name": "West Shore Medical Private Hospital" }, "geometry": { "type": "Point", "coordinates": [ -61.548663005234765, 10.676902039371715 ] } },
+{ "type": "Feature", "properties": { "Name": "661,607.818, 1,179,683.211", "Loc_Name": "St. Clair Medical" }, "geometry": { "type": "Point", "coordinates": [ -61.522454138506042, 10.668419419402074 ] } }
+]
+}

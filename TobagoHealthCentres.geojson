@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "TobagoHealthCentres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32620" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "751,617.44, 1,247,910.33", "Loc_Name": "Castara Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 751617.440000000409782, 1247910.330000001937151 ] } },
+{ "type": "Feature", "properties": { "Name": "749,311.76, 1,244,460.55", "Loc_Name": "Moriah Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 749311.75999999884516, 1244460.550000002607703 ] } },
+{ "type": "Feature", "properties": { "Name": "749,716.52, 1,240,988.29", "Loc_Name": "Mason Hall Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 749716.519999999552965, 1240988.28999999910593 ] } },
+{ "type": "Feature", "properties": { "Name": "746,733.15, 1,242,110.57", "Loc_Name": "Les Coteaux Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 746733.150000001303852, 1242110.570000002160668 ] } },
+{ "type": "Feature", "properties": { "Name": "742,586.52, 1,241,312.57", "Loc_Name": "Plymouth Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 742586.519999999552965, 1241312.570000002160668 ] } },
+{ "type": "Feature", "properties": { "Name": "742,306.68, 1,239,566.2", "Loc_Name": "Black Rock Outreach Centre" }, "geometry": { "type": "Point", "coordinates": [ 742306.679999999701977, 1239566.200000001117587 ] } },
+{ "type": "Feature", "properties": { "Name": "741,809.86, 1,236,969.04", "Loc_Name": "Bethel Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 741809.860000001266599, 1236969.040000000968575 ] } },
+{ "type": "Feature", "properties": { "Name": "739,656.69, 1,236,914.79", "Loc_Name": "Buccoo Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 739656.689999999478459, 1236914.790000000968575 ] } },
+{ "type": "Feature", "properties": { "Name": "738,582.02, 1,234,551.47", "Loc_Name": "Canaan Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 738582.020000000484288, 1234551.470000002533197 ] } },
+{ "type": "Feature", "properties": { "Name": "746,418.78, 1,236,968.96", "Loc_Name": "Tobago Regional Health Authority" }, "geometry": { "type": "Point", "coordinates": [ 746418.78000000026077, 1236968.96000000089407 ] } },
+{ "type": "Feature", "properties": { "Name": "747,636.25, 1,236,804.11", "Loc_Name": "Scarborough Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 747636.25, 1236804.109999999403954 ] } },
+{ "type": "Feature", "properties": { "Name": "753,679.3, 1,238,509.03", "Loc_Name": "Mt. St. George Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 753679.300000000745058, 1238509.029999999329448 ] } },
+{ "type": "Feature", "properties": { "Name": "759,264.53, 1,240,504.46", "Loc_Name": "Pembroke Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 759264.530000001192093, 1240504.460000002756715 ] } },
+{ "type": "Feature", "properties": { "Name": "761,973.02, 1,242,550.89", "Loc_Name": "Belle Garden Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 761973.020000000484288, 1242550.890000000596046 ] } },
+{ "type": "Feature", "properties": { "Name": "764,036.75, 1,244,620.09", "Loc_Name": "Roxborough Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 764036.75, 1244620.090000001713634 ] } },
+{ "type": "Feature", "properties": { "Name": "765,810.63, 1,245,713.37", "Loc_Name": "Delaford Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 765810.629999999888241, 1245713.370000001043081 ] } },
+{ "type": "Feature", "properties": { "Name": "769,112.71, 1,250,207.82", "Loc_Name": "Speyside Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 769112.709999999962747, 1250207.820000002160668 ] } },
+{ "type": "Feature", "properties": { "Name": "767,586.13, 1,252,828.04", "Loc_Name": "Charlotteville Health Centre" }, "geometry": { "type": "Point", "coordinates": [ 767586.129999999888241, 1252828.03999999910593 ] } }
+]
+}
