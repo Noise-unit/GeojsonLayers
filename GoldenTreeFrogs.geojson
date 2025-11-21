@@ -1,10 +1,10 @@
 {
 "type": "FeatureCollection",
 "name": "GoldenTreeFrogs",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4978" } },
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Name": "-61.248465, 10.717261" }, "geometry": { "type": "Point", "coordinates": [ 3015181.95642899768427, -5494397.644944331608713 ] } },
-{ "type": "Feature", "properties": { "Name": "-61.28328, 10.716634" }, "geometry": { "type": "Point", "coordinates": [ 3010891.753287199884653, -5496773.331357213668525 ] } },
-{ "type": "Feature", "properties": { "Name": "-61.417801, 10.732961" }, "geometry": { "type": "Point", "coordinates": [ 2997788.070559728424996, -5503581.236301429569721 ] } }
+{ "type": "Feature", "properties": { "Name": "-61.248465, 10.717261" }, "geometry": { "type": "Point", "coordinates": [ -61.243169733107209, 10.72957331247742 ] } },
+{ "type": "Feature", "properties": { "Name": "-61.28328, 10.716634" }, "geometry": { "type": "Point", "coordinates": [ -61.288001819202151, 10.728571852037392 ] } },
+{ "type": "Feature", "properties": { "Name": "-61.417801, 10.732961" }, "geometry": { "type": "Point", "coordinates": [ -61.422971432172794, 10.743464611369999 ] } }
 ]
 }
